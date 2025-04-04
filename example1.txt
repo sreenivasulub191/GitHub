@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is example1 file
+hii
+hii-dev2
+=======
+this is example1 file
+>>>>>>> origin/main
